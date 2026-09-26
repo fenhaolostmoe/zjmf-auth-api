@@ -1,0 +1,15 @@
+{
+    "id": 169,
+    "version": "3.9.22",
+    "description": "新增\r\n   1. 远程冷备份支持自定义本地存放路径。\r\n    2. 可批量给实例分配IPV6。\r\n    3. 存储池扫描磁盘清理。\r\n    4. 镜像、ISO可批量下载。\r\n      5. 镜像市场\r\n优化\r\n    1. 批量迁移无法迁移IPV6机器问题。",
+    "type": 1,
+    "md5": "",
+    "support_version": "3.6.13",
+    "authorize_type": 0,
+    "update_time": "2026-04-07 09:50:50",
+    "update_type": 0,
+    "single_md5": "",
+    "ctl_md5": "7aca63e6a45dfd78fa3b3cf231de6d5a",
+    "web_md5": "3e87ca8ec354a71bbedfabda5b37f1c9",
+    "compute_md5": ""
+}
